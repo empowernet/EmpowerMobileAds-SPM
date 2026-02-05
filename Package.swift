@@ -40,7 +40,7 @@ let package = Package(
         // MARK: - Binary Targets
         .binaryTarget(
             name: "EmpowerMobileAds",
-            url: "https://cdn.empower.net/sdk/mobile/ios/EmpowerMobileAds-7.0.3.zip",
+            url: "https://cdn.empower.net/sdk/mobile/ios/EmpowerMobileAds-8.1.1.zip",
             checksum: "621ef4d14f74c58af9bae19a6aebe7ecc5f7e10501785bc9da0315b04167662d"
         ),
 
